@@ -18,3 +18,14 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.tittle_info {
+  font-size: 25px;
+}
+.list_info {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+}
